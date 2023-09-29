@@ -1,0 +1,15 @@
+/* Name:- Kulwinder Singh, Student Number:- 8917490*/
+body
+{
+    height : 100vh;
+    width : 100vw;
+    background-color: hsla(158, 82%, 50%, 0.922);
+    font: normal normal bold 12px/30px Georgia, serif;
+    padding: 2em;
+}
+h2
+{
+color: rgb(42, 5, 191);
+font-size: 2rem;
+
+}
